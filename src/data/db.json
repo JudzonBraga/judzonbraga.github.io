@@ -1,0 +1,51 @@
+{ "videos":[
+    {
+        "id": 1,
+        "titulo": "Como utilizar el Display block, inline, inline-block",
+        "categoria": "FRONT END",
+        "imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
+        "video": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
+        "descripcion": "video nuevo 1"
+    },
+    {
+        "id": 2,
+        "titulo": "Productividad en el trabajo remoto",
+        "categoria": "BACK END",
+        "imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
+        "video": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
+        "descripcion": "video nuevo 2"
+    },
+    {
+        "id": 3,
+        "titulo": "¿Cuáles son las principales áreas de la programación?",
+        "categoria": "FRONT END",
+        "imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Genesis.png",
+        "video": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+        "descripcion": "video nuevo 3"
+    },
+    {
+        "id": 4,
+        "titulo": "Detección de intruso con IA",
+        "categoria": "INNOCACIÓN Y GESTIÓN",
+        "imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Ale.png",
+        "video": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
+        "descripcion": "video nuevo 4"
+    },
+    {
+        "id": 5,
+        "titulo": "Productividad en el trabajo remoto",
+        "categoria": "INNOCACIÓN Y GESTIÓN",
+        "imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
+        "video": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
+        "descripcion": "video nuevo 5"
+    },
+    {
+        "id": 6,
+        "titulo": "¿Cuáles son las principales áreas de la programación?",
+        "categoria": "FRONT END",
+        "imagen": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Genesis.png",
+        "video": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
+        "descripcion": "video nuevo 6"
+    }
+]
+}
